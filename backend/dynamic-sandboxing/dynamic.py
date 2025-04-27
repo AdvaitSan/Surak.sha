@@ -3,7 +3,7 @@ import requests
 import hashlib
 import time
 
-API_KEY = "fhu8ys2tb683c59bmoihtdhl6b87974cyw91z8l407782d23ls6gn9kr70355d5a"
+API_KEY = ""
 HEADERS = {
     "User-Agent": "Falcon Sandbox",
     "api-key": API_KEY
