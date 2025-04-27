@@ -1,0 +1,26 @@
+flask>=2.3.3
+python-dotenv>=1.0.0
+flask-sqlalchemy>=3.1.1
+sqlalchemy>=2.0.23
+werkzeug>=2.3.7
+pefile>=2024.8.26
+# Data Science and Machine Learning
+joblib>=1.4.2
+numpy>=2.2.4
+pandas>=2.2.3
+python-dateutil>=2.9.0
+pytz>=2025.2
+scikit-learn>=1.6.1
+scipy>=1.15.2
+six>=1.17.0
+threadpoolctl>=3.6.0
+tzdata>=2025.2
+flask-cors
+requests
+yara-python
+python-magic-bin
+pymongo>=4.6.1
+shap
+PyMuPDF
+pypdf2==3.0.1
+oletools
